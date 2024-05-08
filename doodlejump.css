@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+}
+
+#board {
+    /* background-color: green; */
+    background-image: url("./doodlejumpbg.png");
+    background-position: center; /* Center the background image horizontally and vertically */
+    background-size: cover; /* Cover the entire area of the element with the background image */
+}
